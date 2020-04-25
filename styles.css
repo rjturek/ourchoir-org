@@ -3,20 +3,11 @@ body{
     font-family: arial;
     background-color: D7E5F5;
     text-align: left;
-  }
-  
-  h1{
-    padding: 10px 25px 0px;
-  }
-  
-  pre{
-    text-align: left;
-  }
-  
-  .title{
-    text-align: center;
-    font-size:large;
-    font-weight: bold;
-  }
-
 }
+  
+  
+code, pre, .codelike { 
+    font-family: Consolas, Courier New, monospace; 
+    font-size: 100%; 
+}  
+
